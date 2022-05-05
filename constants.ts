@@ -26,6 +26,12 @@ export const DICTIONARIES: Record<string, Dictionary> = {
     subtitle: 'Texte localisé basé sur les en-têtes de géolocalisation',
     link: 'Voir la documentation des en-têtes',
   },
+  pl: {
+    title: 'Przykład i18n',
+    greet: 'Cześć!',
+    subtitle: 'Tekst przetłumaczony na podstawie Twojego nagłówka geolokalizacji',
+    link: 'See headers documentation',
+  },
   cn: {
     title: 'i18n 示例',
     greet: '你好!',
